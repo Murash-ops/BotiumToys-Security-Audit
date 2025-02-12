@@ -9,7 +9,7 @@ This is a simple security audit for Botium Toys.
 
 **Recommendations:** Some ideas on how to make security better.
 
-Since I'm learning, these are just my beginner thoughts:
+Since I'm learning, these are just my thoughts:
 
 1. Only give people access to what they need 
 
